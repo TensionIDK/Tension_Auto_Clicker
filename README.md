@@ -15,7 +15,7 @@
 
 <br/>
 
-[ ⬇️ DOWNLOAD LATEST RELEASE (.EXE) ]([https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest](https://github.com/TensionIDK/Tension_Auto_Clicker/releases/tag/letest))
+[ ⬇️ DOWNLOAD LATEST RELEASE (.EXE) ](https://github.com/TensionIDK/Tension_Auto_Clicker/releases/tag/letest)
 
 <br/>
 
