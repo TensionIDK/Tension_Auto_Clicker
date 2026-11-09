@@ -2,6 +2,7 @@
 
 # ⚡ TENSION AUTOCLICKER
 
+
 ### *The High-Performance, Stealth-Engine AutoClicker with Nothing OS Aesthetics.*
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-0e0f12?style=for-the-badge&logo=windows&logoColor=white)](#)
@@ -9,9 +10,12 @@
 [![UI](https://img.shields.io/badge/Design-Nothing%20OS%20Matte%20Red-17181c?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Build-Stable%20v1.0-brightgreen?style=for-the-badge)](#)
 
+### 🚀 Uncapped Speed
+**Zero Hard Limits:**  *Dial anywhere from `0` to whatever your PC can handle. Push your hardware to its absolute limit!*
+
 <br/>
 
-[ ⬇️ DOWNLOAD LATEST RELEASE (.EXE) ](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+[ ⬇️ DOWNLOAD LATEST RELEASE (.EXE) ]([https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest](https://github.com/TensionIDK/Tension_Auto_Clicker/releases/tag/letest))
 
 <br/>
 
