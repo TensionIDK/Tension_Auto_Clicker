@@ -22,6 +22,9 @@
 </div>
 
 ---
+<div align="center">
+<img width="430" height="586" alt="image" src="https://github.com/user-attachments/assets/d8ada06e-1bee-4f74-92aa-7ead84554d1e" />
+</div>
 
 ## 👁️ Overview
 
@@ -124,3 +127,5 @@ Because this software is distributed as an independent, unsigned executable that
 **Developed with precision. Built for tension.**
 
 </div>
+
+
